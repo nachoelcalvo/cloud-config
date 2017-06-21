@@ -7,3 +7,7 @@ eureka:
 
 customerservice:
   timeout: 2000
+
+management:
+  security:
+    enabled: false
